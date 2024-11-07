@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash&display=swap');
+
+.bg{
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image:url(./marine.webp) 
+}
+
+.title{
+    font-family: 'Cherry Swash', cursive;
+    font-size: 80px;
+    color: pink;
+    text-align: center;
+    -webkit-text-stroke: 20;
+    vertical-align: middle;
+}
+
+.btn{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btn1{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.startbtn{
+    font-size: 50px;
+    color: white;
+    background-color: rgba(203, 172, 115, 0.457);
+}
+
+.startbtn:hover{
+    color: white;
+    background-color: pink;
+}
+
+.heart{
+    text-align: center;
+}
+
+.toptext{
+    vertical-align: middle;
+}
